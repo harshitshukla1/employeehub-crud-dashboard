@@ -221,3 +221,13 @@ __marimo__/
 *.db
 *.sqlite
 *.sqlite3
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Test and cache files
+.pytest_cache/
+__pycache__/
+*.pyc
